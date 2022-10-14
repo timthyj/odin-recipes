@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is a test of skills learned in the odin project modules on git and html, to see if I can create an index page with links to a few recipies. It won't be pretty but it will be the first thing that I have built myself, which is awesome! 
